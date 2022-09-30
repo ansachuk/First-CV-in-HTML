@@ -1,0 +1,213 @@
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    margin: 39px 0px 41px 0px;
+    background-color: #E5E5E5;
+
+}
+
+/* main styles */
+
+.main{
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.main-content{
+background-color: #FFFFFF;
+box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+padding: 110px 0px 100px 90px;
+}
+
+/* info about user */
+
+.about{
+    margin-bottom: 40px;
+}
+
+/* about posada */
+
+.posada{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: black;
+    margin-bottom: 30px;
+}
+
+/* about name */
+
+.about-name{
+    font-style: normal;
+font-weight: 700;
+font-size: 45px;
+line-height: 55px;
+color: black;
+margin-bottom: 25px;
+}
+
+
+/* text about me  */
+
+.about-me{
+    font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+color: #595959;
+width: 390px;
+}
+
+/* projject div  */
+
+.projects{
+    margin-bottom: 51px ;
+}
+
+/* project titles */
+
+.project-title{
+    font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 27px;
+color: black; 
+
+margin-bottom: 10px;
+}
+
+.ol1{
+    font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 24px;
+color: #000000;
+padding: 0px;
+ margin-left: 20px;
+
+}
+
+.sp1, .sp2 {
+    font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+color: #595959;
+margin-left: 10px;
+}
+/* work and study title  */
+
+.work-study{
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 20px;
+color: #FB6D3A;
+margin-bottom: 10px;
+}
+
+/* work place title  */
+
+.wp{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #000000;
+    margin-bottom: 10px;
+}
+
+/* period of working */
+
+.period{
+    font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+color: #A8A8A8;
+margin-bottom: 10px;
+
+}
+
+/* period of working slash */
+.pws{
+    font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+color: #000000;
+}
+
+.sp2{
+    padding: 0px;
+    margin-left: 21px;
+}
+
+.work{
+    margin-bottom: 50px;
+   
+}
+/* sidebar styles */
+
+.sidebar{
+    background-color: #1E2939;
+    padding-top: 40px ;
+    width: 370px;
+}
+
+
+.bsb{
+    padding-left: 40px;
+    padding-top: 50px;
+    color: #FFFFFF;
+    
+}
+
+.bsbtitle{
+    font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 27px;
+margin-bottom: 10px;
+}
+
+.cnt{
+    font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 24px;
+margin-right: 4px;
+}
+
+.cntlink{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #565E6A;
+    margin-bottom: 50px;
+}
+
+.sbul{
+    padding: 0px;
+    margin-left: 20px;
+    color: #FB6D3A;
+    font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+margin-bottom: 45px;
+}
+
+.cont{
+    margin-bottom: 50px;
+}
+
+.sbli{
+    color: #FFFFFF;
+}
